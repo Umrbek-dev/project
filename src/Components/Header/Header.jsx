@@ -13,10 +13,10 @@ const Header = () => {
               </a>
               <div className="umar__bot">
                 <ul>
-                  <a href="/">Features</a>
-                  <a href="/">Premium</a>
-                  <a href="">Pricing</a>
-                  <a href="/">About</a>
+                  <a href="#1">Features</a>
+                  <a href="#3">Premium</a>
+                  <a href="#4">Pricing</a>
+                  <a href="#2">About</a>
                   <a href="/">
                     <img src="./logooo.png" alt="" />
                   </a>

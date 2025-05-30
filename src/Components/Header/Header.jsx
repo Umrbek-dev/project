@@ -18,7 +18,7 @@ const Header = () => {
                   <a href="#4">Pricing</a>
                   <a href="#2">About</a>
                   <a href="/">
-                    <img src="./logooo.png" alt="hero_img" />
+                    <img src="./logooo.png" alt="hero" />
                   </a>
                   <a href="">Sign in</a>
                 </ul>
